@@ -1,3 +1,3 @@
 # hello-world
 My first repository on Gethub 
-I love music:, :PLAY:, and :meat:.
+I love music:, :play:, and :meat:.
